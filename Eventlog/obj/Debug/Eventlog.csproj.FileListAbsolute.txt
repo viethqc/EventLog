@@ -1,0 +1,6 @@
+C:\Users\QT\documents\visual studio 2012\Projects\Eventlog\Eventlog\bin\Debug\Eventlog.exe.config
+C:\Users\QT\documents\visual studio 2012\Projects\Eventlog\Eventlog\bin\Debug\Eventlog.exe
+C:\Users\QT\documents\visual studio 2012\Projects\Eventlog\Eventlog\bin\Debug\Eventlog.pdb
+C:\Users\QT\documents\visual studio 2012\Projects\Eventlog\Eventlog\obj\Debug\Eventlog.csprojResolveAssemblyReference.cache
+C:\Users\QT\documents\visual studio 2012\Projects\Eventlog\Eventlog\obj\Debug\Eventlog.exe
+C:\Users\QT\documents\visual studio 2012\Projects\Eventlog\Eventlog\obj\Debug\Eventlog.pdb
